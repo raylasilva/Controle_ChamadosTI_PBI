@@ -32,4 +32,4 @@ Relatórios de Tendências:
 
 -Identificação de oportunidades de investimento em tecnologias ou treinamentos específicos para fortalecer a infraestrutura e reduzir o volume de chamados recorrentes e demorados.
 
-![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRlMTg1NWEtYjFhMi00MmI5LWIyZWItZmY2NzE1M2JmYTNlIiwidCI6IjE0YzJmOGQ3LTVhMWYtNGQ3Yy1hZTAyLTc5NzkzN2M1YjlmNiJ9)
+[Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRlMTg1NWEtYjFhMi00MmI5LWIyZWItZmY2NzE1M2JmYTNlIiwidCI6IjE0YzJmOGQ3LTVhMWYtNGQ3Yy1hZTAyLTc5NzkzN2M1YjlmNiJ9)
